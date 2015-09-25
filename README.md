@@ -1,2 +1,2 @@
 # GoldRush_capstone
-Capstone project for Thhinkful
+Capstone project for Thinkful
