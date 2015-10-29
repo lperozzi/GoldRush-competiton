@@ -6,7 +6,7 @@ Created on Tue Oct 27 09:59:28 2015
 """
 
 import os
-os.chdir("/Users/lorenzoperozzi/Documents/GIT/thinkful_projects/GoldRush_capstone/Bayesian-Regression-Methods-master/Relevance_Vector_Machine_&_ARD")
+os.chdir("Bayesian-Regression-Methods-master/Relevance_Vector_Machine_&_ARD")
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.cross_validation import train_test_split
