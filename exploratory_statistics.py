@@ -56,7 +56,7 @@ sns.stripplot(y="LITHO_CAT", x="STRUCT_CAT", data=df1, jitter=False, size=8,
 ax1.set_title('Drop NaN in CODE_STRUCT') 
 
 sns.stripplot(y="LITHO_CAT", x="STRUCT_CAT", data=df2, jitter=False, size=8,
-                    edgecolor="gray", alpha=.5, ax=ax1);
+                    edgecolor="gray", alpha=.5, ax=ax2);
 #ax1.set_xlim(-100,) 
 ax1.set_title('Keep NaN in CODE_STRUCT')    
 plt.tight_layout()
