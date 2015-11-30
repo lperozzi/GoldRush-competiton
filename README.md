@@ -1,2 +1,3 @@
-# GoldRush_capstone
-Capstone project for Thinkful
+# GoldRush_competition
+
+Support vector machine to predic gold grade classification in Lamaque site. 
